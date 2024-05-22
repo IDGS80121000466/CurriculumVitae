@@ -1,0 +1,90 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Currículum_Vitae.Models.CurriculumViewModel
+<div class="container mt-5">
+    <div class="row align-items-start mb-4">
+        <div class="col-md-3 text-center">
+            <div class="profile-image">
+                <img src="/img/FotoEmmanuelEscobedo.jpg" alt="Foto Emmanuel" class="rounded-circle img-thumbnail" width="200" height="200" />
+            </div>
+        </div>
+        <div class="col-md-9">
+            <h1 class="display-4">@Model.InformacionPersonal.NombreCompleto</h1>
+            <div class="card-body">
+                <p><i class="fas fa-map-marker-alt"></i> <strong>Dirección:</strong> @Model.InformacionPersonal.Direccion</p>
+                <p><i class="fas fa-phone"></i> <strong>Teléfono:</strong> @Model.InformacionPersonal.Telefono</p>
+                <p><i class="fas fa-envelope"></i> <strong>Email:</strong> @Model.InformacionPersonal.Email</p>
+                <p><i class="fas fa-mars"></i> <strong>Sexo:</strong> @Model.InformacionPersonal.Sexo</p>
+            </div>
+            <a href="@Url.Action("Index", "Home")" class="btn btn-primary mt-3">
+                <i class="fas fa-user"></i> Perfil
+            </a>
+            <a href="@Url.Action("FormacionAcademica", "FormacionAcademica")" class="btn btn-primary mt-3">
+                <i class="fas fa-graduation-cap"></i> Formación Académica
+            </a>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-3">
+            <div class="card mb-4">
+                <div class="card-header">
+                    <h2 class="card-title">Habilidades</h2>
+                </div>
+                <div class="card-body">
+                    <p><i class="fas fa-laptop-code"></i> Desarrollo web y móvil</p>
+                    <p><i class="fab fa-java"></i> Programación en Java</p>
+                    <p><i class="fab fa-js"></i> Programación en JavaScript</p>
+                    <p><i class="fab fa-html5"></i> Programación en HTML</p>
+                    <p><i class="fab fa-python"></i> Programación en Python</p>
+                    <p><i class="fas fa-database"></i> Programación en SQL</p>
+                    <p><i class="fab fa-windows"></i> Programación en C#</p>
+                    <p><i class="fas fa-database"></i> Diseño de bases de datos</p>
+                    <p><i class="fas fa-tasks"></i> Gestión de proyectos</p>
+                </div>
+            </div>
+            <div class="card mb-4">
+                <div class="card-header">
+                    <h2 class="card-title">Aptitudes</h2>
+                </div>
+                <div class="card-body">
+                    <p><i class="fas fa-users"></i> Trabajo en equipo</p>
+                    <p><i class="fas fa-comments"></i> Comunicación efectiva</p>
+                    <p><i class="fas fa-adjust"></i> Adaptabilidad</p>
+                    <p><i class="fas fa-tools"></i> Resolución de problemas</p>
+                </div>
+            </div>
+            <div class="card mb-4">
+                <div class="card-header">
+                    <h2 class="card-title">Idiomas</h2>
+                </div>
+                <div class="card-body">
+                    <ul>
+                        <li>Español (Nativo)</li>
+                        <li>Inglés (B1)</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-9">
+            <div class="card mb-4">
+                <div class="card-header">
+                    <h2 class="card-title">Experiencia Profesional</h2>
+                </div>
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-3 text-right"><strong>@Model.InformacionExperienciaProfesional.Titulo</strong></div>
+                        <div class="col-9">
+                            <strong>Fecha:</strong><p class="mb-1">Abril 2023 - Ago 2023</p>
+                            <strong>Empresa:</strong><p class="mb-1">@Model.InformacionExperienciaProfesional.Empresa</p>
+                            <strong>Puesto:</strong><p class="mb-1">@Model.InformacionExperienciaProfesional.Puesto</p>
+                            <strong>Funciones:</strong><p class="mb-1">@Model.InformacionExperienciaProfesional.Funciones</p>
+                        </div>
+                    </div>                  
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

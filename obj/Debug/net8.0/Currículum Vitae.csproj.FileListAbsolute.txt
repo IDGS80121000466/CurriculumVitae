@@ -1,0 +1,31 @@
+C:\Users\emman\IDGS901\Currículum Vitae\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\emman\IDGS901\Currículum Vitae\bin\Debug\net8.0\appsettings.json
+C:\Users\emman\IDGS901\Currículum Vitae\bin\Debug\net8.0\Currículum Vitae.staticwebassets.runtime.json
+C:\Users\emman\IDGS901\Currículum Vitae\bin\Debug\net8.0\Currículum Vitae.exe
+C:\Users\emman\IDGS901\Currículum Vitae\bin\Debug\net8.0\Currículum Vitae.deps.json
+C:\Users\emman\IDGS901\Currículum Vitae\bin\Debug\net8.0\Currículum Vitae.runtimeconfig.json
+C:\Users\emman\IDGS901\Currículum Vitae\bin\Debug\net8.0\Currículum Vitae.dll
+C:\Users\emman\IDGS901\Currículum Vitae\bin\Debug\net8.0\Currículum Vitae.pdb
+C:\Users\emman\IDGS901\Currículum Vitae\obj\Debug\net8.0\Currículum Vitae.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emman\IDGS901\Currículum Vitae\obj\Debug\net8.0\Currículum Vitae.AssemblyInfoInputs.cache
+C:\Users\emman\IDGS901\Currículum Vitae\obj\Debug\net8.0\Currículum Vitae.AssemblyInfo.cs
+C:\Users\emman\IDGS901\Currículum Vitae\obj\Debug\net8.0\Currículum Vitae.csproj.CoreCompileInputs.cache
+C:\Users\emman\IDGS901\Currículum Vitae\obj\Debug\net8.0\Currículum Vitae.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\emman\IDGS901\Currículum Vitae\obj\Debug\net8.0\Currículum Vitae.RazorAssemblyInfo.cache
+C:\Users\emman\IDGS901\Currículum Vitae\obj\Debug\net8.0\Currículum Vitae.RazorAssemblyInfo.cs
+C:\Users\emman\IDGS901\Currículum Vitae\obj\Debug\net8.0\Currículum Vitae.sourcelink.json
+C:\Users\emman\IDGS901\Currículum Vitae\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\emman\IDGS901\Currículum Vitae\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\emman\IDGS901\Currículum Vitae\obj\Debug\net8.0\staticwebassets\msbuild.Currículum Vitae.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\emman\IDGS901\Currículum Vitae\obj\Debug\net8.0\staticwebassets\msbuild.build.Currículum Vitae.props
+C:\Users\emman\IDGS901\Currículum Vitae\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Currículum Vitae.props
+C:\Users\emman\IDGS901\Currículum Vitae\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Currículum Vitae.props
+C:\Users\emman\IDGS901\Currículum Vitae\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\emman\IDGS901\Currículum Vitae\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\emman\IDGS901\Currículum Vitae\obj\Debug\net8.0\scopedcss\bundle\Currículum Vitae.styles.css
+C:\Users\emman\IDGS901\Currículum Vitae\obj\Debug\net8.0\scopedcss\projectbundle\Currículum Vitae.bundle.scp.css
+C:\Users\emman\IDGS901\Currículum Vitae\obj\Debug\net8.0\Currículum Vitae.dll
+C:\Users\emman\IDGS901\Currículum Vitae\obj\Debug\net8.0\refint\Currículum Vitae.dll
+C:\Users\emman\IDGS901\Currículum Vitae\obj\Debug\net8.0\Currículum Vitae.pdb
+C:\Users\emman\IDGS901\Currículum Vitae\obj\Debug\net8.0\Currículum Vitae.genruntimeconfig.cache
+C:\Users\emman\IDGS901\Currículum Vitae\obj\Debug\net8.0\ref\Currículum Vitae.dll

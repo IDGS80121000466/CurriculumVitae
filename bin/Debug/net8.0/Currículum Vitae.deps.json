@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Currículum Vitae/1.0.0": {
+        "runtime": {
+          "Currículum Vitae.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Currículum Vitae/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
